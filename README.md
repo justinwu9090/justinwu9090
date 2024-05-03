@@ -1,4 +1,7 @@
-<h3 align="center">Embedded Software  @ <a href='https://udacity.com'>Qualcomm</a> | Grad @ Georgia Tech OMSCS  | Electrical Engineer - UCSD | Game Dev Enthusiast  </a></h3>
+[![Linkedin Badge](https://img.shields.io/badge/-justindwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justindwu/)](https://www.linkedin.com/in/justindwu/)
+[![Gmail Badge](https://img.shields.io/badge/-justinwu9090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinwu9090@gmail.com)](mailto:justinwu9090@gmail.com)
+
+<h3 align="center">Embedded Software  @ <a href='https://udacity.com'>Qualcomm</a> | Grad @ Georgia Tech OMSCS  | Electrical Engineer - UCSD | Game Dev Enthusiast </h3>
 
 
 
@@ -10,10 +13,6 @@
 I did  my undergrad in Electrical Engineering at UCSD - University of California, San Diego\
 🎮&nbsp; I'm also a hobbyist in game development projects in my free time!
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-justindwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justindwu/)](https://www.linkedin.com/in/justindwu/)
-[![Gmail Badge](https://img.shields.io/badge/-justinwu9090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinwu9090@gmail.com)](mailto:justinwu9090@gmail.com)
----
 
 ## Academic CS Projects
 - Parallel Programming (OpenMP, CUDA, MPI)

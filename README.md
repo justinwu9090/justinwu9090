@@ -15,12 +15,12 @@ I did  my undergrad in Electrical Engineering at UCSD - University of California
 
 
 ## Academic CS Projects
-- Parallel Programming (OpenMP, CUDA, MPI)
-- Computer Graphics Extension
+- [Parallel Programming](https://github.com/justinwu9090/Parallel-Programming) (OpenMP, CUDA, MPI)
+- [Computer Graphics Extension](https://github.com/justinwu9090/Computer-Graphics-Extension) OpenGL learnings
 
 ## Game Development
-- Kleptocrat, a steath-type game - VGD Spring 2024
-- Parkour Hotshots - First-person platformer (hobby project in development)
+- [Kleptocrat, a steath-type game](https://github.com/justinwu9090/Kleptocrat) - VGD Spring 2024
+- [Jump Garden, a first-person platformer](https://github.com/justinwu9090/Jump-Garden) - (hobby project in development)
   
 ## Past Projects for Embedded & Electrical Engineering
 - Qualcomm H.A.R.D. hack 2017 participant - https://www.qualcomm.com/developer/project/needy-trashcan

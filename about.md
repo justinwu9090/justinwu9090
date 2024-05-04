@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
 title: About
----
+--- -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-justindwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justindwu/)](https://www.linkedin.com/in/justindwu/)
 [![Gmail Badge](https://img.shields.io/badge/-justinwu9090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinwu9090@gmail.com)](mailto:justinwu9090@gmail.com)

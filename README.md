@@ -6,7 +6,7 @@ title: About
 [![Linkedin Badge](https://img.shields.io/badge/-justindwu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justindwu/)](https://www.linkedin.com/in/justindwu/)
 [![Gmail Badge](https://img.shields.io/badge/-justinwu9090@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justinwu9090@gmail.com)](mailto:justinwu9090@gmail.com)
 
-<h3 align="center">Embedded Software  @ <a href='https://udacity.com'>Qualcomm</a> | Grad @ Georgia Tech OMSCS  | Electrical Engineer - UCSD | Game Dev Enthusiast </h3>
+<h3 align="center">Embedded Software  @ <a href='https://www.qualcomm.com/'>Qualcomm</a> | Grad @ Georgia Tech OMSCS  | Electrical Engineer - UCSD | Game Dev Enthusiast </h3>
 
 
 
@@ -20,7 +20,7 @@ I did  my undergrad in Electrical Engineering at UCSD - University of California
 
 
 ## Academic CS Projects
-- [Parallel Programming](https://github.com/justinwu9090/Parallel-Programming) (OpenMP, CUDA, MPI)
+- [CUDA Metrics](https://github.com/justinwu9090/CUDAMetrics) (Performance analysis on various CUDA kernels)
 - [Computer Graphics Extension](https://github.com/justinwu9090/Computer-Graphics-Extension) OpenGL learnings
 
 ## Game Development
